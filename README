@@ -1,0 +1,18 @@
+Hello ,
+Welcome to Sugiomoto Repo
+to run this project you need to have node >v18 installed 
+This project is running on Next14 and React 
+Tailwind css is the main styling component in this project.
+
+React Redux and Redux toolkit has been installed as the main state management dependencies and
+we have two main slices called reviewSlice and cartSlice .
+Redux Persist is also installed for offline rendering to reduce redundancies but inactive.
+
+Based on the size and color you choose an object with a specific id will be stored on the centralized state and as 
+for review state , you have the ability to delete and add reviews and their ratings as many as you’d like . 
+
+Precision has been handled to a a high standard but not to perfection . 
+
+TO RUN THE PROJECT YOU’D NEED TO RUN THESE COMMANDS IN ORDER AT THE ROOT DIRECTORY: (port 3000)
+npm run install 
+npm run dev
